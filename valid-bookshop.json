@@ -1,0 +1,10 @@
+{
+  "name": "おしゃれな本屋",
+  "place": {
+    "large_area": "おしゃれな地域",
+    "small_area": "おしゃれな街",
+    "address": "おしゃれな街のおしゃれな建物",
+    "latitude": 33.333,
+    "longitude": 33.333
+  }
+}
